@@ -1,3 +1,9 @@
-Week Ending,Sentinel Specimens,Sentinel  Positive,Sentinel  Type A,Sentinel  Type B,MDH Labs Specimens,MDH Positive,A(H3),A(H1),Outbreaks,Hospitalizations,Adult Deaths,Pediatric Deaths
-10/22/2022,11455,1791,1446,345,115,98,93,5,14,63,0,0
-10/28/2022,,,,,,,,,,,,
+Week Ending,Sentinel Specimens,Sentinel  Positive,Sentinel  Type A,Sentinel  Type B,MDH Labs Specimens,MDH Positive,A(H3),Dual A (H1/H3),A(H1),Outbreaks,Hospitalizations,Adult Deaths,Pediatric Deaths
+10/22/2022,11455,1791,1446,345,115,98,93,,5,14,63,0,0
+10/29/2022,,,,,,,,,,,,,
+11/5/2022,,,,,,,,,,,,,
+11/12/2022,,,,,,,,,,,,,
+11/19/2022,,,,,,,,,,,,,
+11/26/2022,,,,,,,,,,,,,
+12/3/2022,,,,,,,,,,,,,
+12/10/2022,22150,3811,3254,557,177,121,107,1,10,28,300,14,0
